@@ -1,0 +1,16 @@
+#main {
+    text-align: center;
+}
+
+#main h1 {
+    font-size: 60px;
+    color: red;
+}
+#main ul {
+    list-style: none;
+
+}
+
+#main li {
+    font-size: 28px;
+}
